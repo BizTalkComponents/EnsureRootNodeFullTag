@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BizTalkComponents.PipelineComponents.EnsureRootNodeFullTag</id>
+    <version>1.0.0</version>
+    <title>Ensure RootNode Full Tag</title>
+    <authors>Wael Alissa</authors>
+    <owners>Wael Alissa</owners>
+    <projectUrl>https://github.com/walissa/EnsureRootNodeFullTag</projectUrl>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>BizTalk</tags>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ensures that the Root node is not a self-closed tag.</description>    
+  </metadata>
+  <files>
+    <file src="bin\release\BizTalkComponents.PipelineComponents.EnsureRootNodeFullTag.dll" target="lib\net45"/>
+  </files>
+</package>
